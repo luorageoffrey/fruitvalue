@@ -12,8 +12,6 @@ Fruit value is a site that will allow you to know the nutritional value content 
 Clone the site and run it on vs code
 
 
-
-
 ## GitHub Pages:
 
 
