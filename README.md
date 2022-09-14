@@ -13,6 +13,7 @@ Clone the site and run it on vs code
 
 
 ## GitHub Pages:
+ https://luorageoffrey.github.io/fruitvalue/
 
 
 ## Copyright:
