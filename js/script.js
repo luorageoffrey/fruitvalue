@@ -199,7 +199,7 @@ async function fetchData(){
 
   return await fetch("https://fruityvice.com/api/fruit/all",{
     headers:{
-      'Access-Control-Allow-Origin': '*',
+      'Access-Control-Allow-Origin': 'https://luorageoffrey.github.io/fruitvalue/',
       'Access-Control-Allow-Methods': "GET,POST,OPTIONS,DELETE,PUT"
     }
  
