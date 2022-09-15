@@ -197,7 +197,10 @@ function drawChart(){
 
 async function fetchData(){
 
-  return await fetch("http://localhost:5050/result",{
+  return await fetch("https://fruityvice.com/api/fruit/all",{
+    headers:{
+      'Access-Control-Allow-Origin': '*'
+    }
  
   })
   .then((res)=>res.json()
